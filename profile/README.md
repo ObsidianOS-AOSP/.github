@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, 👋  Esto es para uso privado y reservado para mis proyecto personales  si busca una rom use LineageOS o AxionAOSP, Esta rom esta en principio basada en estas roms por consiguiente todos los demas cambios hechos son para la investigacion personal y para correrlas en mis proyectos, 
 
 <!--
 
